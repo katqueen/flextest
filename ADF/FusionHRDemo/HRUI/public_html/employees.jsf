@@ -7,7 +7,7 @@
       <f:facet name="pageContent">
         <af:panelGroupLayout layout="vertical" id="pgl1">
           <af:panelHeader text="EmployeesEO" id="ph1">
-            <af:query id="qryId1" headerText="Search" disclosed="true" value="#{bindings.ImplicitViewCriteriaQuery.queryDescriptor}" model="#{bindings.ImplicitViewCriteriaQuery.queryModel}"
+            <af:query id="qryId1" headerText="Search1" disclosed="true" value="#{bindings.ImplicitViewCriteriaQuery.queryDescriptor}" model="#{bindings.ImplicitViewCriteriaQuery.queryModel}"
                       queryListener="#{bindings.ImplicitViewCriteriaQuery.processQuery}" queryOperationListener="#{bindings.ImplicitViewCriteriaQuery.processQueryOperation}"
                       resultComponentId="::resId1"/>
           </af:panelHeader>
