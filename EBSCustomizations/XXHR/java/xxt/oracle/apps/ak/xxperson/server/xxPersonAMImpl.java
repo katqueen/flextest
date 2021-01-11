@@ -17,6 +17,7 @@ public class xxPersonAMImpl extends OAApplicationModuleImpl
    */
   public xxPersonAMImpl()
   {
+	  // This is the default constructor (do not remove)
   }
 
   /**
