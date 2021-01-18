@@ -17,13 +17,11 @@ public class xxPersonDetailsEOImpl extends OAEntityImpl
   protected static final int LASTNAME = 2;
   protected static final int EMAIL = 3;
   protected static final int STUDENTFLAG = 4;
-  
   protected static final int NAMEOFUNIVERSITY = 5;
   protected static final int LASTUPDATEDATE = 6;
   protected static final int LASTUPDATELOGIN = 7;
   protected static final int LASTUPDATEDBY = 8;
-  protected static final int CREATIONDATE = 9;
-  
+  protected static final int CREATIONDATE = 9;  
   protected static final int CREATEDBY = 10;
   protected static final int ROWID = 11;
 
