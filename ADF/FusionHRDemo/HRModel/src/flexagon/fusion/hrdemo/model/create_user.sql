@@ -11,6 +11,7 @@ grant all privileges on HR.EMPLOYEES to HRDEMO;
 
 grant all privileges on HR.JOB_HISTORY to HRDEMO;
 grant all privileges on HR.JOBS to HRDEMO;
+
 grant all privileges on HR.LOCATIONS to HRDEMO;
 
 grant all privileges on HR.REGIONS to HRDEMO;
